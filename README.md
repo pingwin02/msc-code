@@ -7,6 +7,7 @@ This repository contains source code and projects completed during the second cy
 ## Semester Structure & Folder Descriptions
 
 ### Semester 1
+- **AOW** – Multi-objective Optimization Algorithms (Algorytmy optymalizacji wielokryterialnej)
 - **SOWW** – High-Performance Computing Systems (Systemy obliczeniowe wysokiej wydajności)
 - **ZTAI** – Advanced AI Techniques (Zaawansowane techniki AI)
 
