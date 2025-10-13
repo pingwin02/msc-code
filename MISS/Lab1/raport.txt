@@ -1,0 +1,4 @@
+Prawdopodobieństwo: 1.378%. Na dokładność wyniku wpływa ilość prób losowań oraz tolerancja.
+
+Damian Jankowski s188597
+Tomasz Krezymon s189642

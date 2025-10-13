@@ -11,6 +11,9 @@ This repository contains source code and projects completed during the second cy
 - **SOWW** – High-Performance Computing Systems (Systemy obliczeniowe wysokiej wydajności)
 - **ZTAI** – Advanced AI Techniques (Zaawansowane techniki AI)
 
+### Semester 2
+- **MISS** - Modelling and Simulation of Systems (Modelowanie i symulacja systemów)
+
 ---
 
 ## License
