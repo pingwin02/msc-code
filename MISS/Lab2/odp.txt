@@ -1,0 +1,5 @@
+Aby rozwiązać problem kolizji, gdy funkcja powierzchni jest nieznana analitycznie, należy zastąpić obliczenia analityczne
+metodami numerycznymi. Czas kolizji (pierwiastek równania) trzeba wyznaczyć numerycznie, na przykład za pomocą bisekcji, zamiast rozwiązywać jawne równanie kwadratowe. Wektor normalny powierzchni w punkcie kolizji należy obliczyć przez numeryczne liczenie pochodnej powierzchni.
+
+Joanna Symczyk s188841
+Damian Jankowski s188597
