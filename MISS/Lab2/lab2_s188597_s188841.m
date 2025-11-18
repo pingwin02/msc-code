@@ -34,7 +34,7 @@ function simulateBounces(k_loss_factor)
     zlabel('z');
     title(['Trajektoria ruchu (k = ', num2str(k_loss_factor), ')']);
     
-    view([235 55]);fzero 
+    view([235 55]);
     
     for i = 1:num_bounces
         
