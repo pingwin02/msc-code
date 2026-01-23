@@ -13,6 +13,7 @@ This repository contains source code and projects completed during the second cy
 
 ### Semester 2
 - **MISS** - Modelling and Simulation of Systems (Modelowanie i symulacja systemów)
+- **PRAW** - Parallel Programming for Multi-Core Architectures (Programowanie równoległe na architekturach wielordzeniowych)
 
 ---
 
