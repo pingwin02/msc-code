@@ -15,6 +15,9 @@ This repository contains source code and projects completed during the second cy
 - **MISS** - Modelling and Simulation of Systems (Modelowanie i symulacja systemów)
 - **PRAW** - Parallel Programming for Multi-Core Architectures (Programowanie równoległe na architekturach wielordzeniowych)
 
+### Semester 3
+- **UMOWW** - High Performance Machine Learning (Uczenie maszynowe o wysokiej wydajności)
+
 ---
 
 ## License
